@@ -1,6 +1,6 @@
 # pickerman-cli
 
-This project was commands tools for pickerman
+This project was created how commands tools Pickerman for android devices on terminal
 
 ## how install?
 
